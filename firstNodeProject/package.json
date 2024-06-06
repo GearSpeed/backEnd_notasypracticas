@@ -1,0 +1,17 @@
+{
+  "name": "firstnodeproject",
+  "version": "0.0.1",
+  "description": "\"This is my first node project\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "",
+    "dev": "",
+    "omar": "echo 'Hello Omar'"
+  },
+  "author": "Sampayo",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
